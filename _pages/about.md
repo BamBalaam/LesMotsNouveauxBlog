@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
+title: À propos
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Concept purement pompé du tumblr portugais ["Novas palavras novas"](http://novaspalavrasnovas.tumblr.com/). Certains mots sont même une traduction littérale, ou du moins vachement proche. Faut bien commencer par la facilité, à un moment je tomberais bien à court de traductions possibles et faudra que je sois créatif...!
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Ce tumblr-là est lui-même probablement pompé du concept de [l'Urban Dictionary](http://www.urbandictionary.com/) qui est quand même un putain de dinosaure des Internets. Soit, l'originalité c'est rare dans le monde, tout est une copie de quelque chose déjà existant, tout ça tout ça...
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+
