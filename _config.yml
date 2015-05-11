@@ -4,7 +4,7 @@ email: lesmotsnouveauxblog@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Des mots de tous(?) les jours, pour toutes(?) les occasions.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://www.lesmotsnouveaux.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  LesMotsNouveauxBlog
 permalink: /blog/:title.html
