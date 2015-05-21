@@ -2,7 +2,7 @@
 title: Les Mots Nouveaux
 email: lesmotsnouveauxblog@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Des mots de tous(?) les jours, pour toutes(?) les occasions.
+  Des mots de tous (?) les jours, pour toutes (?) les occasions.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.lesmotsnouveaux.com" # the base hostname & protocol for your site
 
