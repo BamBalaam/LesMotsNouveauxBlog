@@ -11,6 +11,7 @@ layout: default
 			<h2>
 				<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 			</h2>
+			</br>
 		</li>
 		{% endfor %}
 
@@ -18,12 +19,12 @@ layout: default
 			{% if paginator.previous_page %}
 				<a href="{{ paginator.previous_page_path }}" class="previous">Précédent</a>
 			{% else %}
-				<span class="previous">Précédent</span>
+				<span class="previous">Précédent&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
 			{% endif %}
 			{% if paginator.next_page %}
-				<a href="{{ paginator.next_page_path }}" class="next">Suivant</a>
+				<a href="{{ paginator.next_page_path }}" class="next"> Suivant</a>
 			{% else %}
-				<span class="next ">Suivant</span>
+				<span class="next ">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Suivant</span>
 			{% endif %}
 
 		</div>
