@@ -9,6 +9,7 @@
 	<meta property="og:title" content="{{ page.title }}" />
 {% else %}
 	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Les Mots Nouveaux - Le Blog" />
 {% endif %}
 <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
